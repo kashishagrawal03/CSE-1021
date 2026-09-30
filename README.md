@@ -36,3 +36,6 @@ git push -u origin main
 ```
 
 Replace the remote URL with the URL GitHub shows for your repository.
+
+## Sample output
+![ShelfSmart sample output](sample-output.png)
