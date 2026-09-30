@@ -1,4 +1,4 @@
-# Lybrix - Library Management System
+# ShelfSmart - Library Management System
 
 A beginner-friendly, menu-driven Python program for managing books and student members.
 
